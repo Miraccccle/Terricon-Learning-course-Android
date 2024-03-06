@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">Allert Dialog</string>
+    <string name="app_name">Alert Dialog</string>
+    <string name="titleDialog">Dialog with hero icon</string>
+    <string name="confirmDialog">Confirm</string>
+    <string name="dismissDialog">Dismiss</string>
+    <string name="textDialog">A dialog is a type of modal window that appears in front of app content to provide critical information, or ask for a decision</string>
 </resources>
